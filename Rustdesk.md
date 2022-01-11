@@ -3,11 +3,6 @@
 
 # Rustdesk
 
-Visitar:
-
-
---------------------------------------------------------------------------------------
-
 Instalar vcpkg
 ```sh
 git clone https://github.com/microsoft/vcpkg
