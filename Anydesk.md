@@ -1,14 +1,5 @@
-﻿
-
 # Anydesk
-Guía basada en:
 
-https://techviewleo.com/install-anydesk-on-rocky-almalinux/
-https://www.how2shout.com/linux/how-to-install-anydesk-on-rocky-linux-8/
-https://www.linuxcompatible.org/story/how-to-install-anydesk-on-centos-8/
-https://otodiginet.com/software/how-to-install-anydesk-on-centos-8/
-
---------------------------------------------------------------------------------------
 ## Instalación
 Agregar el repositorio de Anydesk a linux con los siguientes comandos:
 ```sh
@@ -33,4 +24,3 @@ Ahora que el repositorio se encuentra agregado, instalar:
 ```sh
 sudo yum install anydesk
 ```
---------------------------------------------------------------------------------------
