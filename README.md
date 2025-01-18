@@ -16,7 +16,5 @@ This repository contains step-by-step installation guides for various remote acc
 4. **Rustdesk.md**  
     - A guide on installing RustDesk, a modern open-source remote desktop tool with self-hosting capabilities.
 
-## Purpose
-
 The **Remote Access** repository centralizes installation resources for popular remote access tools, making it easier for users to get started with their preferred solutions. 
 Contributions to improve these guides or add installation instructions for other similar tools are warmly welcomed.
